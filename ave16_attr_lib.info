@@ -1,0 +1,22 @@
+#attr1
+attr1 Cyber array=RAM
+attr1 Cyber array=REG
+attr1 Cyber array=EXPAND
+
+#attr2
+attr2 Cyber unroll_times=0
+attr2 Cyber unroll_times=all
+attr2 Cyber unroll_times= 2
+attr2 Cyber unroll_times= 4
+attr2 Cyber unroll_times= 8
+attr2 Cyber unroll_times= 12
+attr2 Cyber unroll_times= 14
+
+#attr3
+attr3 Cyber unroll_times= 0
+attr3 Cyber unroll_times= all
+attr3 Cyber unroll_times= 2
+attr3 Cyber unroll_times= 4
+attr3 Cyber unroll_times= 8
+attr3 Cyber unroll_times= 12
+attr3 Cyber unroll_times= 14
